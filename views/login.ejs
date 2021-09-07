@@ -1,0 +1,52 @@
+<!-- ANTES  LOGIN.HTML -->
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="/stylesheets/styles.css">
+</head>
+<body class="login">
+    <header>
+        <div><a href="/"><img src="/img/logo.png" alt=""></a></div>
+        <nav>
+            <ul class="menu">
+            <li><a href="">smartphones</a></li>
+            <li><a href="">tablets</a></li>
+            <li><a href="">computadoras</a></li>
+        </ul>
+        <ul class="usuario">
+            <li><a href="/users/login">login</a></li>
+            <li><a href="/users/register">register</a></li>
+        </ul> 
+        </nav>
+    </header>
+    <main>
+        <div class="formulario">
+            <h2>BIENVENIDO</h2>
+            <form action="" method="POST">
+                <div class="box-for">
+                    <label for="email">Email</label>
+                    <input type="email" placeholder="Email" id="email">
+                </div>
+                <div class="box-form">
+                    <label for="pass">Contraseña</label>
+                    <input type="password" placeholder="password"  id="pass">
+                </div>
+                <div class="box-check">
+                    <input type="checkbox" id="remember" name="remember">
+                    <label for="remember">Recordarme</label>
+                </div>
+                <div class="box-error">
+                    <span>La combinacion ingresada de email y contraseña no es valida</span>
+                </div>
+                <button type="submit">Ingresar</button>
+
+            </form>
+        </div>
+
+    </main>
+</body>
+</html>
