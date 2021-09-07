@@ -3,7 +3,7 @@ module.exports = {
         return res.render('index', { title: 'Craftsy 2.0' });
     },
     admin : (req,res) => {
-        return res.render('admin', {});
+        return res.render('admin');
 
-    },
+    }
 }
