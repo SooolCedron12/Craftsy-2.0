@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "name": "purus",
+        "description": "eget rutrum at lorem integer tincidunt ante vel ipsum praesent",
+        "category": "gratis",
+        "price": 100,
+        "discount": 10,
+        "image": "img-phone-03.jpg"
+    },
+    {
+        "id": 2,
+        "name": "luctus",
+        "description": "habitasse platea dictumst aliquam augue quam sollicitudin vitae",
+        "category": "gratis",
+        "price": 200,
+        "discount": 5,
+        "image": "img-phone-03.jpg"
+    },
+    {
+        "id": 3,
+        "name": "blandit",
+        "description": "consequat lectus in est risus auctor sed tristique in tempus",
+        "category": "oferta",
+        "price": 500,
+        "discount": 15,
+        "image": "img-phone-01.jpg"
+    },
+    {
+        "id": 4,
+        "name": "ornare",
+        "description": "tortor risus dapibus augue vel accumsan tellus",
+        "category": "nuevo",
+        "price": 120,
+        "discount": 10,
+        "image": "img-phone-02.jpg"
+    },
+    {
+        "id": 5,
+        "name": "diam id",
+        "description": "velit eu est congue elementum in hac",
+        "category": "nuevo",
+        "price": 350,
+        "discount": 10,
+        "image": "img-phone-01.jpg"
+    },
+    {
+        "id": 6,
+        "name": "sodales sed",
+        "description": "ultrices erat tortor sollicitudin mi sit amet",
+        "category": "oferta",
+        "price": 600,
+        "discount": 10,
+        "image": "img-phone-02.jpg"
+    },
+    {
+        "id": 7,
+        "name": "fringilla rhoncus",
+        "description": "consequat ut nulla sed accumsan felis ut at dolor",
+        "category": "nuevo",
+        "price": 480,
+        "discount": 10,
+        "image": "img-phone-01.jpg"
+    },
+    {
+        "id": 8,
+        "name": "luctus nec",
+        "description": "consectetuer adipiscing elit proin risus",
+        "category": "gratis",
+        "price": 690,
+        "discount": 10,
+        "image": "img-phone-03.jpg"
+    },
+    {
+        "id": 9,
+        "name": "enim in",
+        "description": "vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl",
+        "category": "gratis",
+        "price": 180,
+        "discount": 10,
+        "image": "img-phone-02.jpg"
+    },
+    {
+        "id": 10,
+        "name": "hac habitasse",
+        "description": "pede posuere nonummy integer non velit donec",
+        "category": "gratis",
+        "price": 190,
+        "discount": 10,
+        "image": "img-phone-03.jpg"
+    },
+    {
+        "id": 11,
+        "name": "morbi vestibulum",
+        "description": "rutrum nulla nunc purus phasellus",
+        "category": "nuevo",
+        "price": 100,
+        "discount": 10,
+        "image": "img-phone-01.jpg"
+    },
+    {
+        "id": 12,
+        "name": "turpis adipiscing",
+        "description": "duis bibendum morbi non quam nec dui",
+        "category": "nuevo",
+        "price": 100,
+        "discount": 10,
+        "image": "img-phone-01.jpg"
+    },
+    {
+        "id": 13,
+        "name": "porttitor",
+        "description": "est risus auctor sed tristique in tempus",
+        "category": "oferta",
+        "price": 120,
+        "discount": 10,
+        "image": "img-phone-03.jpg"
+    },
+    {
+        "id": 14,
+        "name": "lacus",
+        "description": "donec quis orci eget orci vehicula condimentum curabitur in libero",
+        "category": "oferta",
+        "price": 450,
+        "discount": 10,
+        "image": "img-phone-02.jpg"
+    },
+    {
+        "id": 15,
+        "name": "quam suspendisse",
+        "description": "lobortis vel dapibus at diam nam",
+        "category": "oferta",
+        "price": 100,
+        "discount": 10,
+        "image": "img-phone-01.jpg"
+    },
+    {
+        "id": 16,
+        "name": "maecenas pulvinar",
+        "description": "eleifend quam a odio in hac habitasse platea dictumst maecenas",
+        "category": "gratis",
+        "price": 100,
+        "discount": 10,
+        "image": "img-phone-02.jpg"
+    }
+]

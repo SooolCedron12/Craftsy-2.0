@@ -10,21 +10,23 @@
     <%- include('./partials/header') %>
     
     <main>
+      
         <section class="productos">
+            <% products.forEach(products=> { %>
             <a href="/products/detail">
                 <article>
-                    <img src="/images/img-phone-01.jpg" alt="telefono movil">
-                    <h4>Nombre del producto</h4>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi ullam nam quas expedita cum voluptas inventore labore necessitatibus quaerat aspernatur?</p>
+                    <img src="/images/<%= product.image %> " alt="telefono movil">
+                    <h4><%= product.name %></h4>
+                    <p><%= product.description %></p>
                     <a href="">ver mas</a>
                 </article>
 
             </a>
             
             <article>
-                <img src="/images/img-phone-02.jpg" alt="telefono movil">
-                <h4>Nombre del producto</h4>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi ullam nam quas expedita cum voluptas inventore labore necessitatibus quaerat aspernatur?</p>
+                <img src="/images/<%= product.image %>" alt="telefono movil">
+                <h4><%= product.name %></h4>
+                <p><%= product.description %></p>
                 <a href="">ver mas</a>
             </article>
             <article>
